@@ -4,7 +4,7 @@ pipeline{
         stage('Deploy'){
              steps{
                 echo 'Welcome to intern'
+         }
+      } 
    }
-  } 
- }
 }
